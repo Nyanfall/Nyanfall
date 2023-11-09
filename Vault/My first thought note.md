@@ -1,0 +1,2 @@
+That is a long road to ride, somehow i am writing this thing with a lot of syntax errors;
+You cannot live without starting something new, so do I. For now, I wanna try to do public notes. Not sure how good is idea to do it publicly, so my vault is naked to the world. But here we are.  
