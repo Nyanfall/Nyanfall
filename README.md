@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Artem Panchenko also known as @Nyanfall
+- 👋 Hi, I’m Artem Panchenko also known as @Nyanfall . I work as a game designer in Kyiv.
 - 👀 I’m interested in programming and game development.
-- 🌱 I’m currently learning a lot of different stuff, for example: C, C++, C#, Go, Embedded, and a lot more.
+- 🌱 I’m currently learning a lot of different stuff, for example: C, C++, C#, Embedded, and a lot more.
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me by email: nyanfall@proton.me
 <!---
